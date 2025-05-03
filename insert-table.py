@@ -7,7 +7,7 @@ DB_CONFIG = {
     'user': 'root',
     'host': 'localhost',
     'database': 'games',
-    'password': 'your-password-here'
+    'password': "ThatWildPanda#1"
 }
 
 def get_platform_name(filename):
